@@ -4,7 +4,7 @@ package main
 import (
 	"os"
 
-	"github.com/bluenviron/CopSDeR/internal/core"
+	"github.com/CopSDeR/internal/core"
 )
 
 func main() {
